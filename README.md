@@ -7,13 +7,13 @@ jQuery Countdown
 ```html
 <span>example element</span>
 ```
-Easy enough.
-2. Add the Countdown class, **jq-countdown**
+
+2. Add the required countdown class, **jq-countdown**
 
 ```html
 <span class="jq-countdown">example element</span>
 ```
-3. Add the attributes for the countdown date
+3. Add the applicable attributes for the countdown's end date
 
 ```html
 <span class="jq-countdown" 
